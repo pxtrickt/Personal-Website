@@ -1,5 +1,5 @@
 const text = "Hey, I'm Patrick.";
-const speed = 180; 
+const speed = 200; 
 let index = 0;
 
 function typeEffect() {
